@@ -1,49 +1,63 @@
 📊 E-Commerce Sales Dashboard
+
 🔗 View Live Power BI Dashboard
-Overview:
-Developed a comprehensive interactive dashboard for a mid-sized e-commerce business, focused on visualizing sales performance, profitability, and customer buying patterns across multiple product categories and provincial markets. This solution enables data-driven decision-making to boost revenue and optimize inventory management at a regional level.
 
-Tools & Technologies:
+**Project Overview**
 
-Data Preparation & Cleaning: Microsoft Excel
+This project delivers an in-depth visualization of an e-commerce company’s sales and profitability across multiple categories and regions. The dashboard empowers businesses to track performance, identify profitable products, and understand customer demand trends.
 
-Data Modeling & Analytics: Power BI, DAX (Data Analysis Expressions)
 
-Data Visualization & Reporting: Power BI
+**Tools & Technologies
+**
 
-Key Features & Visuals:
+Data Cleaning: Excel
 
-Provincial Category Sales Analysis: Dynamic bar charts highlighting best-selling product categories within each province to identify localized demand hotspots.
+Data Modeling: Power BI, DAX
 
-Profitability KPIs: Real-time KPI cards tracking total profit, unit prices, and cost of goods sold to ensure margin visibility at the provincial scale.
+Data Visualization: Power BI
 
-Sales Growth Trend Analysis: Line charts illustrating monthly and quarterly revenue growth trends to monitor business health over time provincially.
 
-Customer Order Segmentation: Visual differentiation of high vs low demand SKUs across provinces to inform inventory stocking strategies.
+**Key Visuals & Insights**
 
-Regional Sales Heatmap: Geographic map visualization combining provincial sales distribution for strategic regional targeting.
 
-Order Priority & Channel Insights: Pie and donut charts breaking down order fulfillment priorities and preferred sales channels in provincial markets.
+Category-Wise Sales: Bar chart identifying top-performing product categories.
 
-Key Performance Indicators Tracked:
+Profitability Analysis: KPI cards for profit, unit price, and cost of goods sold.
 
-Total Revenue
+Revenue Growth Trends: Line chart showing sales over time.
 
-Net Profit
+Customer Order Patterns: Visual breakdown of high vs low order volume items.
 
-Sales Growth Percentage
+Regional Sales Distribution: Map/Bar chart to analyze regional performance.
 
-Units Sold
+Order Priority & Channels: Pie/Donut charts showcasing order priorities and channel preferences.
 
-Cost of Units Sold
 
-Usage Instructions:
+**KPIs Included**
 
-Access the fully interactive Power BI dashboard via the provided link.
 
-Utilize slicers and filters to explore sales by province, time period, or product category.
+✅ Total Revenue
 
-Drill down into specific provincial data for granular analysis and targeted strategy formulation.
+✅ Total Profit
 
-Project Impact:
-This dashboard serves as a critical decision-support tool enabling regional sales managers and supply chain teams to tailor marketing campaigns, optimize stock levels, and respond swiftly to shifting consumer trends province-wise. It encapsulates provincial nuances in demand and profitability, driving a localized business growth strategy.
+✅ Sales Growth %
+
+✅ Units Sold
+
+✅ Cost of Units Sold
+
+
+**How to Use**
+
+
+Open the interactive dashboard from the link above.
+
+Click on visuals to drill down into specific regions, products, or categories.
+
+Use filters for custom insights on time period, product type, or region.
+
+
+**Conclusion
+**
+
+The E-Commerce Sales Dashboard acts as a decision-support system, helping stakeholders visualize sales performance, improve supply chain efficiency, and optimize marketing strategies.s provincial nuances in demand and profitability, driving a localized business growth strategy.
